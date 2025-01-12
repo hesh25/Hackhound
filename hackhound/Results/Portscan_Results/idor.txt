@@ -1,0 +1,8 @@
+
+[2K1014                    [Status: 200, Size: 894, Words: 193, Lines: 33, Duration: 4290ms][0m
+
+[2K1012                    [Status: 200, Size: 897, Words: 193, Lines: 33, Duration: 4304ms][0m
+
+[2K1010                    [Status: 200, Size: 897, Words: 193, Lines: 33, Duration: 4314ms][0m
+
+[2K1008                    [Status: 200, Size: 895, Words: 193, Lines: 33, Duration: 5079ms][0m
